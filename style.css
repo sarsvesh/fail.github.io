@@ -396,5 +396,8 @@ a:hover{
     height: auto;
     padding: 15px;
   }
+  .image-rezise{
+    object-fit: contain;
+  }
 }
  
