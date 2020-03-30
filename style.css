@@ -384,17 +384,17 @@ a:hover{
     overflow-x: hidden;
     width: 100vh;
     overflow-y: scroll;
+    height: calc(100vh - 7rem);
+
   }
   .projects-image{
     max-width: 100%;
-    display: relative;
-    padding-bottom: 75%;
+    display: flex;
   }
   .projects-image img{
-    position: absolute;
-    width: 350px;
-    height: auto;
-    padding: 15px;
-  }
+      width: auto ;
+      max-width: 100% ;
+      height: auto ;
+      padding: 15px;
 }
  
