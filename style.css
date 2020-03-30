@@ -392,9 +392,9 @@ a:hover{
     display: flex;
   }
   .projects-image img{
-      width: auto ;
-      max-width: 100% ;
-      height: auto ;
-      padding: 15px;
+    width: 350px;
+    height: auto;
+    padding: 15px;
+  }
 }
  
